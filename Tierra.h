@@ -9,7 +9,7 @@
 #include <vector>
 #include "Tipos.h"
 #include "Objeto.h"
-
+#include <SFML/Graphics.hpp>
 using namespace std;
 
 // Valores constantes
