@@ -3,7 +3,7 @@
 
 
 int main() {
- Menu menu;
+    Menu menu;
     menu.ejecutar();
     return 0;
 }
